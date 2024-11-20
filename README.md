@@ -19,9 +19,9 @@ This repository contains a simple **Login Page** built using HTML and JavaScript
   <h2>📞 Contact Me</h2>
   <p>Have questions or feedback? Feel free to reach out:</p>
   <ul>
-    <li><strong>GitHub:</strong> <a href="https://github.com/TIRTH0409" target="_blank">your-username</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/tirth0409" target="_blank">your-profile</a></li>
-    <li><strong>Behance:</strong> <a href="https://behance.net/TIRTH0409" target="_blank">your-profile</a></li>
+    <li><a href="https://github.com/TIRTH0409" target="_blank">GitHub</a></li>
+    <li><a href="https://linkedin.com/in/tirth0409" target="_blank">LinkedIn</a></li>
+    <li><a href="https://behance.net/TIRTH0409" target="_blank">Behance</a></li>
   </ul>
 </section>
 
